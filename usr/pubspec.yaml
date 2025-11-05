@@ -1,4 +1,8 @@
 name: couldai_user_app
+
+environment:
+  sdk: '^3.7.0'
+
 # ... existing content above unchanged ...
 dependencies:
   flutter:
